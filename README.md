@@ -10,10 +10,10 @@ This project's main purpose was to get to grips with `Sinatra`.
 
 Try it out [here](https://todo-application-sinatra.herokuapp.com/lists).
 
-### Adding a todo list
+## Adding a todo list
 
 ![](public/images/adding-todo-list.png)
 
-### Individual todo list view
+## Individual todo list view
 
 ![](public/images/individual-list-view.png)
