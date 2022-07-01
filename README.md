@@ -4,7 +4,7 @@ A todo application built using `Ruby` and `Sinatra`.
 
 ## About
 
-This project's main purpose was to get to grips with `Sinatra`.
+The main purpose of this project was to get to grips with `Sinatra`.
 
 ## How to use
 
