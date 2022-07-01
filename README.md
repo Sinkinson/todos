@@ -12,4 +12,4 @@ Try it out [here](https://todo-application-sinatra.herokuapp.com/lists).
 
 ## Individual todo list view
 
-![](public/images/individual-todo-list.png)
+![](public/images/individual-list-view.png)
